@@ -15,7 +15,7 @@
 ### Testing Documentation
 
 - [Checklists API](https://github.com/DmSh57/---API)
-- [Test-Suites and Test-Cases]
+- [Test-Suites and Test-Cases](https://github.com/DmSh57/test)
 - [Bug-Reports](https://github.com/DmSh57/Jira/blob/7e91c4f203dfdfa2873679b2cc18c3363da854f2/jira)
 - [SQL Queries](https://github.com/DmSh57/SQL/tree/main)
 - [Postman Collections](https://github.com/DmSh57/Postman-collection-/tree/main/Postman%20collection)
