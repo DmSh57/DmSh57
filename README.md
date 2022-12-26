@@ -18,7 +18,7 @@
 - [Test-Suites and Test-Cases]
 - [Bug-Reports](https://github.com/DmSh57/Jira/blob/7e91c4f203dfdfa2873679b2cc18c3363da854f2/jira)
 - [SQL Queries]
-- [Postman Collections] (https://github.com/DmSh57/Postman-collection-/commit/2bd92c8924ca4dbb818c93a28fac45c9e20b4da7)
+- [Postman Collections](https://github.com/DmSh57/Postman-collection-/tree/main/Postman%20collection)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/mrshapovalov)
